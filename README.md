@@ -13,6 +13,7 @@ hi so i had fun writing that up, it was a funny discovery tho it must be patched
 
 # LOADSTRING:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xspyy/wait a second yo"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xspyy/mm2-auto-vote/refs/heads/main/main.lua"))()
 ```
+
 enjoy ^w^
