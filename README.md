@@ -1,4 +1,4 @@
-# MM2 AUTO VOTING
+# MM2 AUTO VOTING - MOBILE FRIENDLY
 hi so i had fun writing that up, it was a funny discovery tho it must be patched -- IT WONT BE PATCHED SINCE NIKILIS TAKES AGES!! :heart:
 
 # HOW DOES IT WORKS?
