@@ -65,7 +65,7 @@ end
 
 
 local y=65
-for name,part in pairs(detectors) do
+for name,part in detectors do
 	local b=Instance.new("TextButton",frame)
 	b.Size=UDim2.new(.8,0,0,35)
 	b.Position=UDim2.new(.1,0,0,y)
@@ -74,7 +74,7 @@ for name,part in pairs(detectors) do
 	
 	b.MouseButton1Click:Connect(function()
 		selecteddetector=part
-		for _,v in pairs(frame:GetChildren()) do
+		for _,v in frame:GetChildren() do
 			if v:IsA("TextButton") then v.BackgroundColor3=Color3.new(1,1,1) end
 		end
 		b.BackgroundColor3=Color3.new(0,1,0)
